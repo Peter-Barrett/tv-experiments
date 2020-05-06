@@ -1,0 +1,14 @@
+{
+  "id": "com.peter.tv.test",
+  "version": "1.0.0",
+  "vendor": "My Company",
+  "type": "web",
+  "main": "index.html",
+  "title": "Peters Test App 2",
+  "icon": "icon.png",
+  "requiredPermissions": [
+    "time",
+    "settings.read",
+    "activities.manage"
+  ]
+}
